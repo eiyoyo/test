@@ -1,0 +1,10 @@
+{
+  "tabSize": 4,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0 - 每日笔记",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "z - Attachment"
+}
